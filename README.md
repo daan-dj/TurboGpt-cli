@@ -1,6 +1,6 @@
 # TurboGpt-cli
 
-A CLI for openAI's GPT4 & GPT3.5 plus models. Based on [turboGPT](https://github.com/daan-dj/TurboGpt) by [daan-dj](https://github.com/daan-dj)
+A CLI for openAI's GPT4 & GPT3.5 plus models. Based on [turboGPT](https://github.com/daan-dj/TurboGpt) by [me](https://github.com/daan-dj)
 
 ## Install
 
