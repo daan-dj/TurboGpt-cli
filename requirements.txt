@@ -1,0 +1,5 @@
+colorama==0.4.6
+pystyle==2.9
+python-dotenv==1.0.0
+tls-client==0.1.9
+turbogpt==1.0.1
